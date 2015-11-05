@@ -1,0 +1,9 @@
+So this time there wont be a make file, simply run javac on the server.java file, then java server, and the JVM and Java compiler will do most of the heavy lifting. Also, attached youll find a sample run on ipv4 and ipv6, and a server log for a run of the program.
+
+Example run
+
+Javac Server.java
+
+Java Server <Log File> <Optional Port Number>
+
+Matthew Damore
